@@ -1,1 +1,2 @@
 # RL-Wireless
+This repo contains the codes for my IEE WCL paper named "DRL-based AoI-driven Scheduling for EH-enabled CR-NOMA IoT Networks with Queue Constraints". The aim of DRL here was to minimize the AOI under CR-NOMA based spectrum sharing by maintaining the QOS of PU. The RL agent selects the optimal SU ina particular time slot that can minimize the AOI of PU under buffer and Queue constraints.
